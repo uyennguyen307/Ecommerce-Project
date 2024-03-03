@@ -42,6 +42,7 @@ In this project, complete 08 query with expected output in Bigquery base on Goog
 **Question 7**
 ![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/4fc5d8fb-a97a-49c3-93c5-80c1d4a2339e)
 **Query 7**
+
 ![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/ea4172ca-7468-4bbe-a4d0-ca6630463225)
 
 ---
