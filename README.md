@@ -1,4 +1,4 @@
-# Ecommerce-Project
+# SQL_Ecommerce-Project
 In this project, complete 08 query with expected output in Bigquery base on Google Analytics dataset to fulfill analysis requests.
 
 **Question 1**
