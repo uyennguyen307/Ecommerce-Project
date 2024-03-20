@@ -21,6 +21,10 @@ Customers will be divided into acquisition cohorts depending on the month of the
 The cohort index would then be assigned to each of the customer’s purchases, which will represent the number of months since the first transaction.
 
 # II. Data Visualization with Python
+MoM The number of customer
+![image](https://github.com/uyennguyen307/Python_Cohort-Analysis-KPMG-transaction-data/assets/162019618/a819814c-c84e-4262-912a-81613e918655)
+
+
 MoM Retention Rate for Customer Transaction Data
 ![image](https://github.com/uyennguyen307/Python_Cohort-Analysis-KPMG-transaction-data/assets/162019618/c81f9504-4d36-493c-b330-655a1d9c9e97)
 
