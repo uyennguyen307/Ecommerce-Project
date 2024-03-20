@@ -3,7 +3,7 @@
 
 Using Python to analyze transaction data from KPMG and creating a cohort that allows stakeholders to assess user engagement starting from their first transaction.
 
-About Cohort Analysis
+# 2. About Cohort Analysis
 **What is cohort and cohort analysis?**
 
 A cohort is a collection of users who have something in common, and cohort analysis is a tool to measure their engagement over time. 
@@ -20,8 +20,12 @@ Focus on performing Cohort Analysis based on Time(Time cohorts).
 Customers will be divided into acquisition cohorts depending on the month of their first purchase.
 The cohort index would then be assigned to each of the customer’s purchases, which will represent the number of months since the first transaction.
 
-# 2. 
-
 # II. Data Visualization with Python
 MoM Retention Rate for Customer Transaction Data
 ![image](https://github.com/uyennguyen307/Python_Cohort-Analysis-KPMG-transaction-data/assets/162019618/c81f9504-4d36-493c-b330-655a1d9c9e97)
+
+# III. Information/ Insights
+- Overall, no more than 50% customers engage after first transaction, almost fluctuate from 25% - 48%
+- 
+# IV. Recommendation
+
