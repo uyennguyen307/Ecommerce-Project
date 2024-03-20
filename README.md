@@ -28,7 +28,10 @@ MoM Retention Rate for Customer Transaction Data
 Overall, 
 - No more than 50% customers engage after first transaction, almost fluctuate from 25% - 48%
 - From January to December, there was a gradual downtrend in first transaction
+
 In detail,
 - In July 2017, there was the highest retention rate (upto 48.1%) after 5 months since their first transaction
+- 
+
 # IV. Recommendation
 
