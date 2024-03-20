@@ -25,7 +25,10 @@ MoM Retention Rate for Customer Transaction Data
 ![image](https://github.com/uyennguyen307/Python_Cohort-Analysis-KPMG-transaction-data/assets/162019618/c81f9504-4d36-493c-b330-655a1d9c9e97)
 
 # III. Information/ Insights
-- Overall, no more than 50% customers engage after first transaction, almost fluctuate from 25% - 48%
-- 
+Overall, 
+- No more than 50% customers engage after first transaction, almost fluctuate from 25% - 48%
+- From January to December, there was a gradual downtrend in first transaction
+In detail,
+- In July 2017, there was the highest retention rate (upto 48.1%) after 5 months since their first transaction
 # IV. Recommendation
 
