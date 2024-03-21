@@ -24,8 +24,8 @@ The cohort index would then be assigned to each of the customer’s purchases, w
 
 # II. Data Visualization with Python
 MoM The number of customer
-![image](https://github.com/uyennguyen307/Python_Cohort-Analysis-KPMG-transaction-data/assets/162019618/a819814c-c84e-4262-912a-81613e918655)
 
+![image](https://github.com/uyennguyen307/Python_Cohort-Analysis-KPMG-transaction-data/assets/162019618/7d5b0710-f38f-4ad4-86e6-1da6427a1605)
 
 MoM Retention Rate for Customer Transaction Data
 ![image](https://github.com/uyennguyen307/Python_Cohort-Analysis-KPMG-transaction-data/assets/162019618/c81f9504-4d36-493c-b330-655a1d9c9e97)
