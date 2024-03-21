@@ -1,7 +1,9 @@
+# [PYTHON] Cohort Analysis - Analyze User Retention Rate
+
 # I.Introduction
 # 1. Project Request
 
-Using Python to analyze transaction data from KPMG and creating a cohort that allows stakeholders to assess user engagement starting from their first transaction.
+From Python, you will use KPMG transaction data to make a cohort to evaluate user engagement from their first transaction
 
 # 2. About Cohort Analysis
 **What is cohort and cohort analysis?**
@@ -31,12 +33,14 @@ MoM Retention Rate for Customer Transaction Data
 # III. Information/ Insights
 Overall, 
 - No more than 50% customers engage after first transaction, almost fluctuate from 25% - 48%
-- From January to December, there was a gradual downtrend in first transaction
-- Customers who start ordering from mid-year 4,5,6,7,8 tend to order stable, and relatively higher than the rest months of the year.
-- 
+- From January to December, there was a gradual downtrend in the number of first transaction
+- Customers who have first transaction from mid-year 4,5,6,7 tend to increase, and relatively higher than the rest months of the year.
 
 In detail,
-- In July 2017, there was the highest retention rate (upto 48.1%) after 5 months since their first transaction
+- In July 2017, there was a growth (from 34% to 48%) and also the highest retention rate (upto 48.1%) after 5 months since their first transaction
+- In April 2017, it gained relatively high retention rate: 45.1% (4th month), 42.1% (5th month) ), and 42.7% (7th month).
 
 # IV. Recommendation
-
+- Retention rate is lower than 50% whether is good or not => Should observe more and consider which benchmark for retention rate is good
+- There was a gradual downtrend in the number of first transaction from January to December => deep dive into marketing data & strategy to attract more users make the first transaction
+- The Mid-year months have higher retention rates than other months -> need to dive into why (with relevant data, and visualization of other data) to apply to other months of the year.
